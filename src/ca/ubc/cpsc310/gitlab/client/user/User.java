@@ -20,7 +20,7 @@ public class User implements IUser {
 	
 	public User()
 	{
-			String testcommit;
+			int testcommit2;
 	}
 	
 	@Override
